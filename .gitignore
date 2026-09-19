@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+next-env.d.ts.bak
+
+# build / type caches
+*.tsbuildinfo
+.puku/
+
+# misc
+.DS_Store
+*.log
+*.tar.gz
+
+# env (only the example file should be tracked)
+.env*.local
+
+# editor
+.vscode/
+.idea/
+.cursor/
